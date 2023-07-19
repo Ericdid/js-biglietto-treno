@@ -9,4 +9,9 @@ console.log("età del passeggero : " + Userage);
 // - il prezzo del biglietto è definito in base ai km (0.21 € al km)
 const Price = 0.21;
 
-typeof Distance;
+let number = Distance * 0.21;
+console.log("prezzo tratta : " + number + "€");
+
+// - va applicato uno sconto del 20% per i minorenni
+if (Userage < 18) {
+}
