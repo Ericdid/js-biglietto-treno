@@ -9,6 +9,8 @@ L'output del prezzo finale va messo fuori in forma umana (con massimo due decima
 
 ## SVILUPPO
 
+(visualizza numeri fino ai decimali)
+
 - chiedere la distanza da percorrere
 - chiedere l età
 - il prezzo del biglietto è definito in base ai km (0.21 € al km)
